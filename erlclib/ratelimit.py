@@ -18,6 +18,13 @@ def check_rate_limit(): # returns True if ratelimited
     
     return get_json()["remaining"] == 0
 
+def set_remaining(new_remaining: int):
+    new = get_json()
+    new["remaining"] = new_remaining
+    set_json(new)
+    del new
+    return
+
 def update(headers: dict):
     new = get_json()
     try:
