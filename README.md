@@ -1,4 +1,11 @@
 # ERLC.py
+
+# DISCONTINUED!!!
+This project has been discontinued.
+Although, I will be making a new ERLC.py in async so there will be ratelimit handling.
+There should be a scalable demo out soon, because I am kinda motivated for this!
+
+
 The **BEST** way of communicating with ER:LC through the API with py.
 
 ERLC.py has unloose and specific classes for specific needs!
@@ -12,10 +19,6 @@ Things ERLC.py can do:
 - [ ] The only ERLC API package that has BUILT IN adaptive rate limiting, adjusting with EVERY request!
 
 
-### NOTICE
-ERLC.py has a couple of bugs, and the ratelimit system is very broken.
-Currently, the ratelimit system is disabled, meaning you have to manually adjust to these ratelimits.
-There is no way to make the ER:LC ratelimit system less restrictive. For some reason, it is VERY restrictive (especially on POST/send-command requests.)
 
 Be careful on how much you are using the API.
 
