@@ -1,11 +1,5 @@
 # ERLC.py
 
-# DISCONTINUED!!!
-This project has been discontinued.
-Although, I will be making a new ERLC.py in async so there will be ratelimit handling.
-There should be a scalable demo out soon, because I am kinda motivated for this!
-
-
 The **BEST** way of communicating with ER:LC through the API with py.
 
 ERLC.py has unloose and specific classes for specific needs!
