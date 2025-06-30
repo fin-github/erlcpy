@@ -1,4 +1,8 @@
-# ERLC.py
+<h1 align="center">⚠️DEPRECATED⚠️</h1>
+
+<p align="center">Moved to https://github.com/erlc-tools/erlcpy</p>
+
+  # ERLC.py
 
 The **BEST** way of communicating with ER:LC through the API with py.
 
